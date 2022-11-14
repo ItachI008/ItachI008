@@ -12,3 +12,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Web Dev and Database
 - 📧 My E-mail ID: balrajbalu2001@gmail.com
 - 📫 My insta ID: https://www.instagram.com/_raj.exe_/
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2522&layout=compact)](https://github.com/karthik2522/github-readme-stats)
