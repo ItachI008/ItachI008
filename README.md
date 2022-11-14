@@ -13,4 +13,7 @@ Here are some ideas to get you started:-->
 - 📧 My E-mail ID: balrajbalu2001@gmail.com
 - 📫 My insta ID: https://www.instagram.com/_raj.exe_/
 +
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItachI008&layout=compact)](https://github.com/Itachi008/github-readme-stats)
++
+  ![Balraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itachi008&show_icons=true&theme=radical)
