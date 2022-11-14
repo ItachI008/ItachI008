@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🏫 Completed Diploma in CSE @ GPTI, Whitefield
-- 🌱 Currently persuing BE in CSE @ CMRIT,B'lore
+- 📖 Currently persuing BE in CSE @ CMRIT,B'lore
 - 👯 Member @Varient-Coders
 - 👌 Willing to work with other techies on various projects
 - 💬 Ask me about Web Dev and Database
