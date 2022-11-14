@@ -10,4 +10,4 @@ Here are some ideas to get you started:-->
 - 👯 Member @Varient-Coders
 - 👌 Willing to work with other techies on various projects
 - 💬 Ask me about Web Dev and Database
-- 📫 My insta ID: _raj.exe_
+- 📫 My insta ID: __raj.exe__
