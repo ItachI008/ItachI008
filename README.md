@@ -29,7 +29,7 @@ I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a c
 
 
 ## 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,mysql,express,nodejs,mongodb,next,firebase,googlecloud,bootstrap,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,mysql,express,nodejs,mongodb,next,firebase,googlecloud,bootstrap,django,figma,kotlin,androidstudio)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
