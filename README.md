@@ -8,7 +8,6 @@ Here are some ideas to get you started:-->
 
 
    
-<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItachI008&layout=compact)](https://github.com/Itachi008/github-readme-stats)
 
 
 
@@ -17,7 +16,9 @@ Here are some ideas to get you started:-->
 
 I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=ItachI008&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ItachI's Stats](https://github-readme-stats.vercel.app/api?username=ItachI008&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItachI008&layout=compact)](https://github.com/Itachi008/github-readme-stats)
+
 
 ## 🚀 About Me
 
