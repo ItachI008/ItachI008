@@ -45,7 +45,7 @@ I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a c
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/Balraj60522082)
-- My Instagram ID [Balraj](https://www.instagram.com/_raj.exe_/)
+- Follow me on [Instagram](https://www.instagram.com/_raj.exe_/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
