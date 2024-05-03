@@ -27,7 +27,7 @@ I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a c
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,sql,express,node,android)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
