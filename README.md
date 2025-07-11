@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 # Hi, I'm Balraj ! 👋
 
-I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a curiosity for technology and a love for gaming. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I'm a passionate Computer Science Engineering graduate from CMR Institute of Technology, driven by curiosity for technology and a love for gaming. My journey revolves around building innovative software, exploring new ideas, and sharing knowledge with the tech community.
 
 ![ItachI's Stats](https://github-readme-stats.vercel.app/api?username=ItachI008&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -23,23 +23,25 @@ I am a passionate B.E CSE student at CMR Institute Of Technology , driven by a c
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at CMR Institute Of Technology.
+- 🎓 Recently graduated with a B.E. in Computer Science from CMR Institute of Technology.
 - 👯 Member @Varient-Coders
-- 👌 Willing to work with other techies on various projects
-
+- 💼 Open to exciting opportunities in software development.
+- 👌 Always up for collaborating on interesting tech projects!
 
 ## 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,mysql,express,nodejs,mongodb,next,firebase,googlecloud,bootstrap,django,figma,kotlin,androidstudio,git,github,redux,tailwind,vscode,npm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
+- 🚀 Full Stack Web Development
+  - Crafting dynamic front-end experiences with React, Redux, and React Router
+  - Creating responsive UIs with Tailwind CSS
+  - Building robust backends with Django
+  - Managing scalable data with PostgreSQL
+- 📱 Android App Development
+  - Developing native and cross-platform apps using Kotlin and React Native
+  - Integrating Firebase and Firestore for real-time functionality
+  - Focusing on clean UI/UX and performance optimization
 
 
 ## 📬 Get in Touch
