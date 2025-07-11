@@ -46,8 +46,8 @@ I'm a passionate Computer Science Engineering graduate from CMR Institute of Tec
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/Balraj60522082)
-- Follow me on [Instagram](https://www.instagram.com/_raj.exe_/)
+- 🐦 [Twitter](https://twitter.com/Balraj60522082)
+- 📸 [Instagram](https://www.instagram.com/_raj.exe_/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
